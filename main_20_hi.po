@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-16 19:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_20.cpp:3
+msgid "Dock window"
+msgstr "गोदी की खिड़की"
+
+#: main_20.cpp:5
+msgid "Check to dock the window with the game moves list box"
+msgstr "गेम मूव्स लिस्ट बॉक्स के साथ विंडो को डॉक करने के लिए चेक करें"
+
+#: main_20.cpp:7
+msgid "Dock window  :  Check to dock the media player window"
+msgstr "डॉक विंडो: मीडिया प्लेयर विंडो को डॉक करने के लिए चेक करें"
+
+#: main_20.cpp:9
+msgid "to the game moves list box."
+msgstr "गेम मूव्स लिस्ट बॉक्स में।"
+
+#: main_20.cpp:12
+msgid "Left margin size"
+msgstr "बाएँ मार्जिन का आकार"
+
+#: main_20.cpp:14
+msgid "Enter the left margin size in pixels"
+msgstr "पिक्सेल में बाएँ मार्जिन का आकार दर्ज करें"
+
+#: main_20.cpp:16
+msgid "Button space size"
+msgstr "बटन स्पेस का आकार"
+
+#: main_20.cpp:18
+msgid "Enter the button interval space size in pixels"
+msgstr "बटन के बीच की दूरी का आकार पिक्सेल में दर्ज करें"
+
+#: main_20.cpp:20
+msgid "Button space size  -  Enter the size in pixels for the gap between"
+msgstr "बटन के बीच की दूरी का आकार - दो बटनों के बीच के अंतराल का आकार पिक्सेल में दर्ज करें"
+
+#: main_20.cpp:21
+msgid "the move info controls and the buttons in the eval profile panel (0 - 120)"
+msgstr "मूव इन्फो कंट्रोल और इवैल प्रोफाइल पैनल में मौजूद बटन (0 - 120)"
+
+#: main_20.cpp:23
+msgid "Left margin size  :  Enter the size in pixels for the left margin of the graph. (60 - 100)"
+msgstr "बाएँ मार्जिन का आकार: ग्राफ़ के बाएँ मार्जिन का आकार पिक्सेल में दर्ज करें। (60 - 100)"
+
+#: main_20.cpp:26
+msgid "Nimzo_3d_ml (version 4.3) multi-lingual,"
+msgstr "Nimzo_3d_ml (संस्करण 4.3) बहुभाषी,"
+
+#: main_20.cpp:28
+msgid "An adjourn game feature to save and restore games"
+msgstr "गेम को सेव करने और फिर से शुरू करने के लिए गेम स्थगित करने की सुविधा"
+
+#: main_20.cpp:30
+msgid "with their clock times (version 4.2)"
+msgstr "उनके घड़ी के समय के साथ (संस्करण 4.2)"
+
+#: main_20.cpp:32
+msgid "An option to dock the media player window (version 4.3)"
+msgstr "मीडिया प्लेयर विंडो को डॉक करने का विकल्प (संस्करण 4.3)"
+
+#: main_20.cpp:34
+msgid "Features added to Nimzo_3d - version 4.3"
+msgstr "Nimzo_3d के संस्करण 4.3 में नई सुविधाएँ जोड़ी गईं"
