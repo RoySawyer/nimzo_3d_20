@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-16 19:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_20.cpp:3
+msgid "Dock window"
+msgstr "Dockfenster"
+
+#: main_20.cpp:5
+msgid "Check to dock the window with the game moves list box"
+msgstr "Aktivieren Sie diese Option, um das Fenster mit der Liste der Spielzüge anzudocken."
+
+#: main_20.cpp:7
+msgid "Dock window  :  Check to dock the media player window"
+msgstr "Fenster andocken: Aktivieren Sie diese Option, um das Mediaplayer-Fenster anzudocken."
+
+#: main_20.cpp:9
+msgid "to the game moves list box."
+msgstr "zum Feld „Spielzugliste“."
+
+#: main_20.cpp:12
+msgid "Left margin size"
+msgstr "Größe des linken Randes"
+
+#: main_20.cpp:14
+msgid "Enter the left margin size in pixels"
+msgstr "Geben Sie die Größe des linken Randes in Pixeln ein."
+
+#: main_20.cpp:16
+msgid "Button space size"
+msgstr "Schaltflächenplatzgröße"
+
+#: main_20.cpp:18
+msgid "Enter the button interval space size in pixels"
+msgstr "Geben Sie die Größe des Schaltflächenabstands in Pixeln ein."
+
+#: main_20.cpp:20
+msgid "Button space size  -  Enter the size in pixels for the gap between"
+msgstr "Schaltflächenabstand - Geben Sie die Größe des Abstands in Pixeln zwischen den Schaltflächen ein."
+
+#: main_20.cpp:21
+msgid "the move info controls and the buttons in the eval profile panel (0 - 120)"
+msgstr "die Steuerelemente für die Bewegungsinformationen und die Schaltflächen im Auswertungsprofil-Panel (0 - 120)"
+
+#: main_20.cpp:23
+msgid "Left margin size  :  Enter the size in pixels for the left margin of the graph. (60 - 100)"
+msgstr "Größe des linken Randes: Geben Sie die Größe des linken Randes des Diagramms in Pixeln ein. (60 - 100)"
+
+#: main_20.cpp:26
+msgid "Nimzo_3d_ml (version 4.3) multi-lingual,"
+msgstr "Nimzo_3d_ml (Version 4.3) mehrsprachig,"
+
+#: main_20.cpp:28
+msgid "An adjourn game feature to save and restore games"
+msgstr "Eine Funktion zum Unterbrechen von Spielen, um Spiele zu speichern und wiederherzustellen"
+
+#: main_20.cpp:30
+msgid "with their clock times (version 4.2)"
+msgstr "mit ihren Uhrzeiten (Version 4.2)"
+
+#: main_20.cpp:32
+msgid "An option to dock the media player window (version 4.3)"
+msgstr "Eine Option zum Andocken des Media-Player-Fensters (Version 4.3)."
+
+#: main_20.cpp:34
+msgid "Features added to Nimzo_3d - version 4.3"
+msgstr "Neuerungen in Nimzo_3d – Version 4.3"
