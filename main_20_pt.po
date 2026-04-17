@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-16 19:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_20.cpp:3
+msgid "Dock window"
+msgstr "Janela de encaixe"
+
+#: main_20.cpp:5
+msgid "Check to dock the window with the game moves list box"
+msgstr "Verifique se deseja ancorar a janela com a caixa de listagem de movimentos do jogo."
+
+#: main_20.cpp:7
+msgid "Dock window  :  Check to dock the media player window"
+msgstr "Acoplar janela: Marque a opção para acoplar a janela do reprodutor de mídia."
+
+#: main_20.cpp:9
+msgid "to the game moves list box."
+msgstr "para a caixa de lista de movimentos do jogo."
+
+#: main_20.cpp:12
+msgid "Left margin size"
+msgstr "Tamanho da margem esquerda"
+
+#: main_20.cpp:14
+msgid "Enter the left margin size in pixels"
+msgstr "Insira o tamanho da margem esquerda em pixels."
+
+#: main_20.cpp:16
+msgid "Button space size"
+msgstr "Tamanho do espaço para botões"
+
+#: main_20.cpp:18
+msgid "Enter the button interval space size in pixels"
+msgstr "Insira o tamanho do intervalo entre os botões em pixels."
+
+#: main_20.cpp:20
+msgid "Button space size  -  Enter the size in pixels for the gap between"
+msgstr "Tamanho do espaço entre os botões - Insira o tamanho em pixels para o espaço entre os botões."
+
+#: main_20.cpp:21
+msgid "the move info controls and the buttons in the eval profile panel (0 - 120)"
+msgstr "os controles de informações de movimento e os botões no painel de perfil de avaliação (0 - 120)"
+
+#: main_20.cpp:23
+msgid "Left margin size  :  Enter the size in pixels for the left margin of the graph. (60 - 100)"
+msgstr "Tamanho da margem esquerda: Insira o tamanho em pixels para a margem esquerda do gráfico. (60 - 100)"
+
+#: main_20.cpp:26
+msgid "Nimzo_3d_ml (version 4.3) multi-lingual,"
+msgstr "Nimzo_3d_ml (versão 4.3) multilíngue,"
+
+#: main_20.cpp:28
+msgid "An adjourn game feature to save and restore games"
+msgstr "Uma função para pausar o jogo, salvar e restaurar partidas."
+
+#: main_20.cpp:30
+msgid "with their clock times (version 4.2)"
+msgstr "com seus respectivos horários (versão 4.2)"
+
+#: main_20.cpp:32
+msgid "An option to dock the media player window (version 4.3)"
+msgstr "Opção para ancorar a janela do reprodutor de mídia (versão 4.3)"
+
+#: main_20.cpp:34
+msgid "Features added to Nimzo_3d - version 4.3"
+msgstr "Funcionalidades adicionadas ao Nimzo_3d - versão 4.3"
