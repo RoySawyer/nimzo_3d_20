@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-16 19:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_20.cpp:3
+msgid "Dock window"
+msgstr "گودی کھڑکی"
+
+#: main_20.cpp:5
+msgid "Check to dock the window with the game moves list box"
+msgstr "گیم موو لسٹ باکس کے ساتھ ونڈو کو ڈاک کرنے کے لیے چیک کریں۔"
+
+#: main_20.cpp:7
+msgid "Dock window  :  Check to dock the media player window"
+msgstr "ڈاک ونڈو : میڈیا پلیئر ونڈو کو ڈاک کرنے کے لیے چیک کریں۔"
+
+#: main_20.cpp:9
+msgid "to the game moves list box."
+msgstr "گیم موو لسٹ باکس میں۔"
+
+#: main_20.cpp:12
+msgid "Left margin size"
+msgstr "بائیں مارجن کا سائز"
+
+#: main_20.cpp:14
+msgid "Enter the left margin size in pixels"
+msgstr "بائیں مارجن کا سائز پکسلز میں درج کریں۔"
+
+#: main_20.cpp:16
+msgid "Button space size"
+msgstr "بٹن کی جگہ کا سائز"
+
+#: main_20.cpp:18
+msgid "Enter the button interval space size in pixels"
+msgstr "بٹن وقفہ کی جگہ کا سائز پکسلز میں درج کریں۔"
+
+#: main_20.cpp:20
+msgid "Button space size  -  Enter the size in pixels for the gap between"
+msgstr "بٹن کی جگہ کا سائز - درمیانی فرق کے لیے سائز پکسلز میں درج کریں۔"
+
+#: main_20.cpp:21
+msgid "the move info controls and the buttons in the eval profile panel (0 - 120)"
+msgstr "ایول پروفائل پینل میں موو انفارمیشن کنٹرولز اور بٹن (0 - 120)"
+
+#: main_20.cpp:23
+msgid "Left margin size  :  Enter the size in pixels for the left margin of the graph. (60 - 100)"
+msgstr "بائیں مارجن کا سائز : گراف کے بائیں مارجن کے لیے پکسلز میں سائز درج کریں۔ (60 - 100)"
+
+#: main_20.cpp:26
+msgid "Nimzo_3d_ml (version 4.3) multi-lingual,"
+msgstr "Nimzo_3d_ml (ورژن 4.3) کثیر لسانی،"
+
+#: main_20.cpp:28
+msgid "An adjourn game feature to save and restore games"
+msgstr "گیمز کو بچانے اور بحال کرنے کے لیے ایک ملتوی گیم کی خصوصیت"
+
+#: main_20.cpp:30
+msgid "with their clock times (version 4.2)"
+msgstr "ان کے گھڑی کے اوقات کے ساتھ (ورژن 4.2)"
+
+#: main_20.cpp:32
+msgid "An option to dock the media player window (version 4.3)"
+msgstr "میڈیا پلیئر ونڈو کو گودی کرنے کا آپشن (ورژن 4.3)"
+
+#: main_20.cpp:34
+msgid "Features added to Nimzo_3d - version 4.3"
+msgstr "Nimzo_3d - ورژن 4.3 میں خصوصیات شامل کی گئیں۔"
