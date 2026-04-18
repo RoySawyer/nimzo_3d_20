@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-16 19:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_20.cpp:3
+msgid "Dock window"
+msgstr "கப்பல்துறை சாளரம்"
+
+#: main_20.cpp:5
+msgid "Check to dock the window with the game moves list box"
+msgstr "சாளரத்தை விளையாட்டு நகர்வுகள் பட்டியல் பெட்டியுடன் இணைக்க சரிபார்க்கவும்."
+
+#: main_20.cpp:7
+msgid "Dock window  :  Check to dock the media player window"
+msgstr "டாக் விண்டோ : மீடியா பிளேயர் விண்டோவை டாக் செய்ய சரிபார்க்கவும்"
+
+#: main_20.cpp:9
+msgid "to the game moves list box."
+msgstr "விளையாட்டு நகர்வுகள் பட்டியல் பெட்டிக்கு."
+
+#: main_20.cpp:12
+msgid "Left margin size"
+msgstr "இடது விளிம்பு அளவு"
+
+#: main_20.cpp:14
+msgid "Enter the left margin size in pixels"
+msgstr "இடது ஓரத்தின் அளவை பிக்சல்களில் உள்ளிடவும்."
+
+#: main_20.cpp:16
+msgid "Button space size"
+msgstr "பொத்தான் இடைவெளி அளவு"
+
+#: main_20.cpp:18
+msgid "Enter the button interval space size in pixels"
+msgstr "பொத்தான் இடைவெளியின் அளவை பிக்சல்களில் உள்ளிடவும்"
+
+#: main_20.cpp:20
+msgid "Button space size  -  Enter the size in pixels for the gap between"
+msgstr "பொத்தான் இடைவெளி அளவு - பொத்தான்களுக்கு இடையேயான இடைவெளியின் அளவை பிக்சல்களில் உள்ளிடவும்."
+
+#: main_20.cpp:21
+msgid "the move info controls and the buttons in the eval profile panel (0 - 120)"
+msgstr "நகர்வுத் தகவல் கட்டுப்பாடுகள் மற்றும் மதிப்பீட்டு சுயவிவரப் பலகத்தில் உள்ள பொத்தான்கள் (0 - 120)"
+
+#: main_20.cpp:23
+msgid "Left margin size  :  Enter the size in pixels for the left margin of the graph. (60 - 100)"
+msgstr "இடது ஓரத்தின் அளவு : வரைபடத்தின் இடது ஓரத்திற்கான அளவை பிக்சல்களில் உள்ளிடவும். (60 - 100)"
+
+#: main_20.cpp:26
+msgid "Nimzo_3d_ml (version 4.3) multi-lingual,"
+msgstr "நிம்சோ_3டி_எம்எல் (பதிப்பு 4.3) பன்மொழி,"
+
+#: main_20.cpp:28
+msgid "An adjourn game feature to save and restore games"
+msgstr "விளையாட்டுகளைச் சேமிக்கவும் மீட்டெடுக்கவும் உதவும் ஒரு விளையாட்டு ஒத்திவைப்பு அம்சம்."
+
+#: main_20.cpp:30
+msgid "with their clock times (version 4.2)"
+msgstr "அவற்றின் கடிகார நேரங்களுடன் (பதிப்பு 4.2)"
+
+#: main_20.cpp:32
+msgid "An option to dock the media player window (version 4.3)"
+msgstr "மீடியா பிளேயர் சாளரத்தை இணைப்பதற்கான ஒரு விருப்பம் (பதிப்பு 4.3)"
+
+#: main_20.cpp:34
+msgid "Features added to Nimzo_3d - version 4.3"
+msgstr "நிம்சோ_3டி - பதிப்பு 4.3 இல் சேர்க்கப்பட்ட அம்சங்கள்"
